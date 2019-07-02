@@ -1,0 +1,20 @@
+{
+  "name": "allmoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "allmoji.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morrantho/allmoji.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morrantho/allmoji/issues"
+  },
+  "homepage": "https://github.com/Morrantho/allmoji#readme"
+}
