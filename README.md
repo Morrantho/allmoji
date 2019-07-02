@@ -36,6 +36,6 @@ Examples:
 
 ```javascript
 let eggplant = Allmoji.GetImg( "eggplant", "72x72/", ".png" );
-let taco     = Allmoji.GetImg( "eggplant", "svg/", ".svg" );
+let taco     = Allmoji.GetImg( "taco", "svg/", ".svg" );
 let cry      = Allmoji.GetImg( "crying_face", "ai/", ".ai" );
 ```
