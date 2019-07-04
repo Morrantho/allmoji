@@ -9,7 +9,7 @@ This document exists because the standard for shortnames is a problem. There are
 
 Fair question. Allmoji gives you the emoji's Unicode character, all its codepoints in hex and the associated twemoji image as hex. What does this do for me? 
 
-## Let compare to emojilib
+## Lets compare to emojilib
 emojilib does not give you hex or codepoints. It merely gives you the emoji's unicode character which must later be converted to hex in order to retrieve it's associated .png, .svg or .ai image from twemoji. Allmoji accounts for all unicode-to-hex conversions ahead of time, reducing runtime cost. This means Allmoji has the ability to yield a constant-time lookup.
 
 ## Lets compare to Twemoji
